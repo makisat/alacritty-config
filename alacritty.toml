@@ -1,0 +1,73 @@
+[font]
+# Overall font size
+size = 12.0 
+
+[font.normal]
+# Regular font 
+family = "RobotoMono Nerd Font" 
+
+[font.bold]
+# Bold font
+family = "RobotoMono Nerd Font"  
+style = "Bold"
+
+[font.italic]
+# Italic font
+family = "RobotoMono Nerd Font"
+style = "Italic" 
+
+[font.bold_italic]
+# Bold-Italic font
+family = "RobotoMono Nerd Font"  
+style = "Bold Italic" 
+
+[window]
+startup_mode = "Maximized"
+decorations = "None"
+opacity = 0.85
+
+[colors.primary]
+foreground = "#787c99"
+background = "#16161e"
+# colors
+[colors.normal]
+black = "#363b54"
+red = "#f7768e"
+green = "#41a6b5"
+yellow = "#e0af68"
+blue = "#7aa2f7"
+magenta = "#bb9af7"
+cyan = "#7dcfff"
+white = "#787c99"
+[colors.bright]
+black = "#363b54"
+red = "#f7768e"
+green = "#41a6b5"
+yellow = "#e0af68"
+blue = "#7aa2f7"
+magenta = "#bb9af7"
+cyan = "#7dcfff"
+white = "#acb0d0"
+
+[keyboard]
+bindings = [{ key = "y", mods = "Control|Shift", mode = "~Vi", action = "ToggleViMode" }]
+
+# "name": "TokyoNight",
+# "black": "#363b54",
+# "red": "#f7768e",
+# "green": "#41a6b5",
+# "yellow": "#e0af68",
+# "blue": "#7aa2f7",
+# "purple": "#bb9af7",
+# "cyan": "#7dcfff",
+# "white": "#787c99",
+# "brightBlack": "#363b54",
+# "brightRed": "#f7768e",
+# "brightGreen": "#41a6b5",
+# "brightYellow": "#e0af68",
+# "brightBlue": "#7aa2f7",
+# "brightPurple": "#bb9af7",
+# "brightCyan": "#7dcfff",
+# "brightWhite": "#acb0d0",
+# "background": "#16161e",
+# "foreground": "#787c99"
