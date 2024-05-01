@@ -52,6 +52,10 @@ white = "#acb0d0"
 [keyboard]
 bindings = [{ key = "y", mods = "Control|Shift", mode = "~Vi", action = "ToggleViMode" }]
 
+[env]
+  W3MIMGDISPLAY_PATH = "/usr/lib/w3m/w3mimgdisplay"
+
+
 # "name": "TokyoNight",
 # "black": "#363b54",
 # "red": "#f7768e",
