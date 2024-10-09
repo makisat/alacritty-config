@@ -1,0 +1,21 @@
+[font]
+normal = { family = "RobotoMono Nerd Font" }
+bold = { family = "RobotoMono Nerd Font" }
+italic = { family = "RobotoMono Nerd Font" }
+
+size = 12.0  # Adjust the font size as desired
+
+[shell]
+program = "fish"
+
+[window]
+dimensions = { columns = 100, lines = 30 }  # Set default window size
+dynamic_padding = true  # Adjust padding when window is resized
+decorations = "full"  # Full window decorations, can be set to none for borderless
+opacity = 0.9
+
+[scrolling]
+multiplier = 3  # Faster scrolling speed
+
+[mouse]
+hide_when_typing = true  # Hide the mouse cursor when typing
